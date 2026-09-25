@@ -1,0 +1,6 @@
+{
+  "name": "SHE Emporium - Haute Lingerie",
+  "description": "Curated intimate couture balancing French leavers lace, Mulberry silk, and bespoke precision sizing for the modern woman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
